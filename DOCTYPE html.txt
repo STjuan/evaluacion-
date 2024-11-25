@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+</head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale-1.0">
+   <title>Listado de Etiqetas HTML y CSS</title>
+   <link rel"stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Listado de Etiquetas HTML y Propiedades CSS</h1>
+  </header>
+
+<section class="tables-container">
+  <div class="table-wrapper">
+    <h2>Etiquetas HTML</h2>
+    <table class="html-table">
+      <thead>
+        <tr>
+           <th>Etiqueta</th>
+           <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+       <tr>
+          <td>&lt;div&gt;</td>
+          <td>Define una division o sección en un documento.</td>
+       </tr>
+       <tr>
+          <td>&lt;a&gt;</td>
+          <td>Define un párrafo</td>
+      </tr>
+      <tr>
+          <td>&lt;a&gt;</td>
+          <td>Define un enlace</td>
+      </tr>
+      <tr>
+          <td>&lt;img&gt;</td>
+          <td>Define una imagen.</td>
+     </tr>
+     <tr>
+         <td>&lt;table&gt;</td>
+         <td>Define una tabla.</td>
+     </tr>
+   </tbody>
+ </table>
+</div>
+ <div class="table wrapper"> 
+   <h2>Propiedades CSS</h2>
+   <table class="css-table">
+     <thead>
+       <tr>
+         <th>Propiedades</th>
+         <th>Descriptión</th>
+       </tr>
+</thead>
+      <tbody>
+       <tr>
+         <td>color</td>
+         <td>Establece un color de texto</td>
+        </tr>
+        <tr>
+          <td>background-color</td>
+          <td>Establece el color de fondo</td>
+        </tr>
+        <tr>
+          <td>font-size</td>
+          <td>Define el tamaño de la fuente</td>
+        </tr>
+        <tr>
+          <td>margin</td>
+          <td>Establece el espacio exterior alrededor de un elemento</td>
+        </tr>
+        <tr>
+          <td>padding</td>
+          <td>Establece el espacio interior dentro de un elemento</td>
+        </tr>
+      </tbody>
+    </table>
+   </div> 
+ </section>
+</body>
+</html>
